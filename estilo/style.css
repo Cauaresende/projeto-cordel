@@ -6,9 +6,8 @@
 
 :root{
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
-    --fonte2: 'Passion One', cursive;
-    --fonte3: 'Sriracha', cursive;
-
+    --fonte2: 'Passion One';
+    --fonte3: 'Sriracha';
 }
 
 * {
@@ -56,7 +55,7 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 2.9vw;
+    font-size: 3.4vw;
 }
 
 section > p{
